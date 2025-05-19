@@ -11,18 +11,18 @@
 ## Ferramentas e Tecnologias
 
 <div>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40" height="40" />
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/PHP-Dark.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/NestJS-Dark.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/NextJS-Dark.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/Angular-Dark.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/React-Dark.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/VueJS-Dark.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/TypeScript.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/HTML.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/CSS.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/Git.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/Docker.svg" width="40" height="40" />
+<img src="https://yf9yw8xxvxmq0g8r.public.blob.vercel-storage.com/icons/CS.svg" width="40" height="40" />
 
 </div>
 
