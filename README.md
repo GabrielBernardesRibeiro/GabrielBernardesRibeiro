@@ -3,7 +3,7 @@
 ### Bem vindo ao meu perfil do GitHub 👋
 
 - 🔭 Trabalho como desenvolvedor full-stack na empresa [BP Full](https://bpone.group).
-- 📫 Caso queira falar comigo, mande um e-mail para contato@aota.dev.br.
+- 📫 Caso queira falar comigo, mande um e-mail para gabriel@bernardes.dev.br.
 - ⚡ Curiosidade:
   - :dog: Gosto de animais.
   - Sou viciado em pokémon.
